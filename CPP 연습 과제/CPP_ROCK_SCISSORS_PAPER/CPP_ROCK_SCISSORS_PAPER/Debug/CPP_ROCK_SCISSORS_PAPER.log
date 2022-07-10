@@ -1,0 +1,5 @@
+﻿  CPP_ROCK_SCISSORS_PAPER.cpp
+F:\Desktop\Unreal\CPPStudy\CPP_ROCK_SCISSORS_PAPER\CPP_ROCK_SCISSORS_PAPER\CPP_ROCK_SCISSORS_PAPER.cpp(10,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Desktop\Unreal\CPPStudy\CPP_ROCK_SCISSORS_PAPER\CPP_ROCK_SCISSORS_PAPER\CPP_ROCK_SCISSORS_PAPER.cpp(29,6): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+F:\Desktop\Unreal\CPPStudy\CPP_ROCK_SCISSORS_PAPER\CPP_ROCK_SCISSORS_PAPER\CPP_ROCK_SCISSORS_PAPER.cpp(16,6): warning C4101: 'select' :참조되지 않은 지역 변수입니다.
+  CPP_ROCK_SCISSORS_PAPER.vcxproj -> F:\Desktop\Unreal\CPPStudy\CPP_ROCK_SCISSORS_PAPER\Debug\CPP_ROCK_SCISSORS_PAPER.exe
