@@ -1,0 +1,4 @@
+﻿  은닉성.cpp
+F:\Desktop\CPP_Study\객체지향\은닉성\은닉성\은닉성.cpp(107,14): warning C4101: 'supcar' :참조되지 않은 지역 변수입니다.
+F:\Desktop\CPP_Study\객체지향\은닉성\은닉성\은닉성.cpp(106,9): warning C4101: 'car' :참조되지 않은 지역 변수입니다.
+  은닉성.vcxproj -> F:\Desktop\CPP_Study\객체지향\은닉성\x64\Debug\은닉성.exe
