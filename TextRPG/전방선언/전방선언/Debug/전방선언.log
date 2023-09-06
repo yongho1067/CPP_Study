@@ -1,0 +1,8 @@
+﻿  Monster.cpp
+  Player.cpp
+F:\Desktop\CPP_Study\TextRPG\전방선언\전방선언\Player.h(14,1): error C2027: 정의되지 않은 형식 'Monster'을(를) 사용했습니다.
+F:\Desktop\CPP_Study\TextRPG\전방선언\전방선언\Player.h(4,7): message : 'Monster' 선언을 참조하십시오.
+  전방선언.cpp
+F:\Desktop\CPP_Study\TextRPG\전방선언\전방선언\Player.h(14,1): error C2027: 정의되지 않은 형식 'Monster'을(를) 사용했습니다.
+F:\Desktop\CPP_Study\TextRPG\전방선언\전방선언\Player.h(4,7): message : 'Monster' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
