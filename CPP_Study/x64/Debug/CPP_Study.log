@@ -1,0 +1,19 @@
+﻿  CPP_Study.cpp
+F:\Desktop\CPP_Study\CPP_Study\CPP_Study.cpp(129,10): error C2228: '._prev' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+F:\Desktop\CPP_Study\CPP_Study\CPP_Study.cpp(129,10): message : 'Node<T> *' 형식입니다.
+          with
+          [
+              T=int
+          ]
+F:\Desktop\CPP_Study\CPP_Study\CPP_Study.cpp(129,10): message : 대신 '->'을(를) 사용하려고 했습니까?
+F:\Desktop\CPP_Study\CPP_Study\CPP_Study.cpp(125,1): message : 클래스 템플릿 멤버 함수 'Node<T> *List<T>::AddNode(Node<T> *,const T &)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              T=int
+          ]
+F:\Desktop\CPP_Study\CPP_Study\CPP_Study.cpp(169,17): message : 컴파일되는 함수 템플릿 인스턴스화 'Node<T> *List<T>::AddNode(Node<T> *,const T &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=int
+          ]
+F:\Desktop\CPP_Study\CPP_Study\CPP_Study.cpp(187,12): message : 컴파일되는 클래스 템플릿 인스턴스화 'List<int>'에 대한 참조를 확인하세요.
