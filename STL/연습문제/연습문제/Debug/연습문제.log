@@ -1,0 +1,6 @@
+﻿  연습문제.cpp
+C:\Users\user\Desktop\CPP_Study\STL\연습문제\연습문제\연습문제.cpp(50,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\CPP_Study\STL\연습문제\연습문제\연습문제.cpp(84,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\CPP_Study\STL\연습문제\연습문제\연습문제.cpp(101,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\CPP_Study\STL\연습문제\연습문제\연습문제.cpp(115,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  연습문제.vcxproj -> C:\Users\user\Desktop\CPP_Study\STL\연습문제\Debug\연습문제.exe
