@@ -2,7 +2,7 @@
 #include <windows.h>
 #include "Types.h"
 
-enum class ConsoleColor
+enum  class ConsoleColor
 {
 	BLACK = 0,
 	RED = FOREGROUND_RED,
@@ -12,12 +12,12 @@ enum class ConsoleColor
 	WHITE = RED | GREEN | BLUE,
 
 };
-
 class ConsoleHelper
 {
 public:
 	static void SetCursorPosition(int32 x, int32 y);
 	static void SetCursorColor(ConsoleColor color);
 	static void ShowConsoleCursor(bool flag);
+
 };
 

@@ -1,5 +1,9 @@
-﻿  pch.cpp
+﻿  Board.cpp
+F:\Desktop\CPP_Study\CPP Algorithm\Algorithm\Maze\Board.cpp(1,10): fatal  error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Maze.pch': No such file or directory
   ConsoleHelper.cpp
+F:\Desktop\CPP_Study\CPP Algorithm\Algorithm\Maze\ConsoleHelper.cpp(1,10): fatal  error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Maze.pch': No such file or directory
   Maze.cpp
+F:\Desktop\CPP_Study\CPP Algorithm\Algorithm\Maze\Maze.cpp(2,10): fatal  error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Maze.pch': No such file or directory
+  pch.cpp
+F:\Desktop\CPP_Study\CPP Algorithm\Algorithm\Maze\pch.cpp(1,10): fatal  error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Maze.pch': No such file or directory
   코드를 생성하고 있습니다...
-  Maze.vcxproj -> F:\Desktop\CPP_Study\CPP Algorithm\Algorithm\x64\Debug\Maze.exe

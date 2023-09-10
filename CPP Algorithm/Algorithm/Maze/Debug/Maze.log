@@ -1,0 +1,4 @@
+﻿  Player.cpp
+F:\Desktop\CPP_Study\CPP Algorithm\Algorithm\Maze\Player.cpp(74,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\Desktop\CPP_Study\CPP Algorithm\Algorithm\Maze\Player.cpp(95,2): warning C4102: 'std': 참조되지 않은 레이블입니다.
+  Maze.vcxproj -> F:\Desktop\CPP_Study\CPP Algorithm\Algorithm\Debug\Maze.exe

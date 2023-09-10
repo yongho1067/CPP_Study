@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Main">
-      <UniqueIdentifier>{430c0b50-ea21-42ab-9562-097cca987bd2}</UniqueIdentifier>
+      <UniqueIdentifier>{d903a7fa-c76a-49a4-a052-bc62aafd392f}</UniqueIdentifier>
     </Filter>
     <Filter Include="Board">
-      <UniqueIdentifier>{e244c82d-28ee-4cd8-894e-baca8ce6f502}</UniqueIdentifier>
+      <UniqueIdentifier>{07519de1-5821-4f64-9ea1-58db73d0928a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -18,6 +18,12 @@
     <ClCompile Include="ConsoleHelper.cpp">
       <Filter>Board</Filter>
     </ClCompile>
+    <ClCompile Include="Board.cpp">
+      <Filter>Board</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Board</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -27,6 +33,12 @@
       <Filter>Main</Filter>
     </ClInclude>
     <ClInclude Include="ConsoleHelper.h">
+      <Filter>Board</Filter>
+    </ClInclude>
+    <ClInclude Include="Board.h">
+      <Filter>Board</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
       <Filter>Board</Filter>
     </ClInclude>
   </ItemGroup>
