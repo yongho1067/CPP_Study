@@ -7,6 +7,12 @@
     <Filter Include="Utils">
       <UniqueIdentifier>{9553c647-21a7-45ca-b6d1-8489a037d880}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Study">
+      <UniqueIdentifier>{e0d3dc1f-da9d-4bca-b7dc-c42739992b6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Study\DeadLock">
+      <UniqueIdentifier>{c5012f6a-db1b-43e7-b447-1487141fda99}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GameServer.cpp">
@@ -15,10 +21,25 @@
     <ClCompile Include="pch.cpp">
       <Filter>Utils</Filter>
     </ClCompile>
+    <ClCompile Include="AccountManager.cpp">
+      <Filter>Study\DeadLock</Filter>
+    </ClCompile>
+    <ClCompile Include="DeadLock.cpp">
+      <Filter>Study\DeadLock</Filter>
+    </ClCompile>
+    <ClCompile Include="UserManager.cpp">
+      <Filter>Study\DeadLock</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
       <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="AccountManager.h">
+      <Filter>Study\DeadLock</Filter>
+    </ClInclude>
+    <ClInclude Include="UserManager.h">
+      <Filter>Study\DeadLock</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
